@@ -1,3 +1,3 @@
-<img src="iRespondLogo.png" width="256px"/>
+<img src="iRespondLogo.png" width="200px" alt="iRespond"/>
 # public-birth-attestation
-Public Birth Attestation Project
+## iRespond Public Birth Attestation Project
