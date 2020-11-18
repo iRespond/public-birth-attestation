@@ -1,3 +1,3 @@
-![iRespond](iRespondLogo.png | width=256)
+![iRespond](iRespondLogo.png | width=256px)
 # public-birth-attestation
 Public Birth Attestation Project
